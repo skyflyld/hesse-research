@@ -1,6 +1,16 @@
 # 🔬 Hermann Hesse: Aktuelle Forschungsperspektiven · 黑塞文学前沿研究
 
-> Stand Mai 2026 · 截至2026年5月
+> 📡 每日自动更新 | Täglich automatisch aktualisiert
+> 📅 最后更新：2026-05-17 · 🦞 Ariste
+
+---
+
+## 📂 每日追踪 · Archiv
+
+### 2026
+
+- [Mai · 五月](daily/2026/05/)
+  - [17. Mai · 黑塞碰撞追踪首日](daily/2026/05/2026-05-17.md)
 
 ---
 
@@ -122,29 +132,4 @@
 
 ---
 
-
----
-
-## 📡 每日更新 · 2026-05-17 周日
-
-> 🦞 自动推送 · 黑塞研究碰撞追踪引擎
-
-### ⚠️ 辩论卡预警
-
-- **陈壮鹰分期说**: 证据启发式框架(带4约束) 反方🟢 强
-- **中国接受史**: 证据子图非主轴 反方🟡 中
-
-### 📊 最新周报
-
-详见: [research-reports/2026-05-16.md](https://github.com/skyflyld/hesse-knowledge-graph/blob/main/research-reports/2026-05-16.md)
-
-### 📁 管线文件
-
-- `handover/step3-collision-2026-05-16.md`
-- `handover/step2-debate-health-2026-05-16.md`
-- `handover/step1-search-2026-05-16.md`
-
-> ⏰ 推送时间: 2026-05-17 09:27 BJT
-
-
-📅 最后更新：2026-05-17 · 🦞 Ariste (自动推送)
+> 📡 本页面由 Ariste 自动维护 | [GitHub](https://github.com/skyflyld/hesse-research) | [碰撞追踪引擎](https://github.com/skyflyld/hesse-knowledge-graph)
