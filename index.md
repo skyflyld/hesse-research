@@ -1,7 +1,7 @@
 # 🔬 Hermann Hesse: Aktuelle Forschungsperspektiven · 黑塞文学前沿研究
 
 > 📡 每日自动更新 | Täglich automatisch aktualisiert
-> 📅 最后更新：2026-06-10 · 🦞 Ariste (自动推送)
+> 📅 最后更新：2026-06-11 · 🦞 Ariste (自动推送)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧠 三、认知语言学转向：黑塞童话中的隐喻
+## ✨ 三、认知语言学转向：黑塞童话中的隐喻
 
 ***Zur Funktion und Bedeutung kognitiver Metaphern in Hermann Hesses Märchen*. Universitätsverlag Göttingen.**
 
