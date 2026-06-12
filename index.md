@@ -1,7 +1,7 @@
 # 🔬 Hermann Hesse: Aktuelle Forschungsperspektiven · 黑塞文学前沿研究
 
 > 📡 每日自动更新 | Täglich automatisch aktualisiert
-> 📅 最后更新：2026-06-12 · 🦞 Ariste (自动推送)
+> 📅 最后更新：2026-06-13 · 🦞 Ariste (自动推送)
 
 ---
 
