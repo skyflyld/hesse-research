@@ -39,3 +39,11 @@ jobs:
           # Only commit if there are changes (new data)
           git diff --quiet && git diff --staged --quiet || git commit -m "📡 Hesse research update $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+      - name: Notify Hesse Knowledge Graph
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.REPO_DISPATCH_TOKEN || github.token }}
+          repository: skyflyld/hesse-knowledge-graph
+          event-type: hesse-news-update
+          client-payload: '{"source": "hesse-research", "date": "${{ github.event.head_commit.timestamp || github.event.created_at || '' }}"}'
