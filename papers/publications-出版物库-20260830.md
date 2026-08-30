@@ -1,5 +1,6 @@
 # 黑塞研究出版物库（publications）— 2026-08-30 建
 
+> ⚙️ **同步状态**：图谱侧挂 `hesse-knowledge-graph/data/debates.json` literature 字段（d08-d16 已带 ISBN/DOI/卷期）｜图谱=事实源，本文档为人类阅读视图
 > 来源：v1/v2/v3 扫描 | 分类：德/英/中/日韩 | 用途：燕妮投稿查重 + 引用清单
 > 证据：Green=多源 | Yellow=单源权威 | 关键缺口标注 ⚠️
 
