@@ -1,176 +1,130 @@
 # 🔬 Hermann Hesse: Aktuelle Forschungsperspektiven · 黑塞文学前沿研究
 
-> 📡 每日自动更新 | Täglich automatisch aktualisiert
-> 📅 最后更新：2026-06-22 · 🦞 Ariste (自动推送)
+> 🦞 Ariste 维护｜最后更新：2026-08-30（碰撞追踪重启日）｜[GitHub](https://github.com/skyflyld/hesse-research)
 
 ---
 
-## 📂 每日信源 · Daily Primary Sources
+## 🧭 导航
+
+| 板块 | 入口 |
+|------|------|
+| ⚔️ 碰撞追踪 | [cards-index（全部 17 卡）](cards-index.md) · [2026-08-30 重启六卡](daily/2026/08/2026-08-30.md) |
+| 👥 人物图谱 | [17 人节点文档](papers/nodes-人物图谱-20260830.md) |
+| 🗓️ 双周年事件线 | [2026H2-2027 全节点](papers/timeline-双周年事件线-20260830.md) |
+| 📚 出版物库 | [德/英/中/日韩 40+ 条](papers/publications-出版物库-20260830.md) |
+| 🌐 前沿扫描 | [v1 扫描](frontier-20260830/黑塞研究前沿扫描-2026-08-30.md) · [v2 扩大范围](frontier-20260830/黑塞研究前沿扫描v2-扩大范围-2026-08-30.md) · [v3 全球接受](frontier-20260830/黑塞研究前沿扫描v3-全球接受与双周年-2026-08-30.md) |
+| 📂 每日信源 | [2026 全部碰撞追踪日更](#每日信源) |
+
+---
+
+## 🗓️ 2027 双周年倒计时
+
+<div id="hesse-countdown" style="font-size:1.3em;font-weight:bold;padding:12px;background:#f6f8fa;border-radius:8px;margin:12px 0;"></div>
+
+<script>
+function hesseCountdown() {
+  var target = new Date('2027-07-02T00:00:00+02:00').getTime();
+  var now = new Date().getTime();
+  var d = target - now;
+  if (d < 0) { document.getElementById('hesse-countdown').innerHTML = '🦞 150 周年已至（2027-07-02）'; return; }
+  var days = Math.floor(d / 86400000);
+  var h = Math.floor((d % 86400000) / 3600000);
+  var m = Math.floor((d % 3600000) / 60000);
+  document.getElementById('hesse-countdown').innerHTML = '🦞 距离黑塞 150 诞辰（2027-07-02）还有 <span style="color:#c00;">' + days + ' 天 ' + h + ' 小时 ' + m + ' 分</span>';
+}
+hesseCountdown(); setInterval(hesseCountdown, 60000);
+</script>
+
+**2027 节点链**（[完整事件线](papers/timeline-双周年事件线-20260830.md)）：
+
+| 日期 | 节点 |
+|------|------|
+| 2026-09-10 | Siddhartha 音乐剧场世界首演（Ruhrtriennale） |
+| 2026-10-09 | Gaienhofen Hesse-Tage |
+| 2026H2-2027初 | Band 19（2027 卷）征稿窗口 |
+| 2027-03-25 | 神户博士论文《黑塞与〈东方〉》解禁 |
+| 2027-04-10 | 第 44 届巴符州文学节开幕（Calw） |
+| 2027-05 | IHHG 年会（双周年大会） |
+| 2027-07-02 | 150 诞辰 Festakt + 博物馆重开 |
+
+---
+
+## 📡 最新碰撞追踪（2026-08-30 重启）
+
+> 6/22 停更后重启。新增 6 卡（#012-#017），基于 8/30 三份前沿扫描（~310 URLs 一手抓取）。[全索引](cards-index.md)
+
+| # | 新卡 | 核心张力 |
+|---|------|---------|
+| 012 | 姜乙现象 | 翻译是跨文化创造还是接受滤镜 |
+| 013 | 中国接受第四阶段论 | 三阶段之后：2018 姜乙爆红以来 |
+| 014 | 德米安跨媒介 | 流行化是接受还是挪用（🔴天敌） |
+| 015 | 鸡汤化 vs 去浅化 | Kuschel 反鸡汤 × 中国治愈系市场 |
+| 016 | 马剑 Masereel 论 | 平行推崇 ≠ 平行接受（🔴天敌） |
+| 017 | 陈多智"显学"论 | 显学地位与专论稀缺并存 |
+
+---
+
+## 👥 人物图谱 · 关键谱系（[全文](papers/nodes-人物图谱-20260830.md)）
+
+```
+中方接受研究谱系：
+Hsia 夏瑞春(1974) → 马剑(2010) → 陈壮鹰(1997/2024) → 陈多智(2023-25) → 詹春花(2024 英文)
+投稿链：燕妮 → Limberg(HHJ 主编) → IHHG(会员制征稿)
+对话链：Kuschel 反鸡汤 ⇄ 中国治愈系市场
+```
+
+---
+
+## 📂 每日信源
 
 ### 2026
 
+- [August · 八月](daily/2026/08/)
+  - [30. Aug · 碰撞追踪重启](daily/2026/08/2026-08-30.md)
 - [Juli · 七月](daily/2026/07/)
-
+  - [05. Juli](daily/2026/07/2026-07-05.md)
 - [Juni · 六月](daily/2026/06/)
-  - [22. Juni · 碰撞追踪](daily/2026/06/2026-06-22.md)
-  - [21. Juni · 碰撞追踪](daily/2026/06/2026-06-21.md)
-  - [20. Juni · 碰撞追踪](daily/2026/06/2026-06-20.md)
-  - [19. Juni · 碰撞追踪](daily/2026/06/2026-06-19.md)
-  - [18. Juni · 碰撞追踪](daily/2026/06/2026-06-18.md)
-  - [17. Juni · 碰撞追踪](daily/2026/06/2026-06-17.md)
-  - [16. Juni · 碰撞追踪](daily/2026/06/2026-06-16.md)
-  - [15. Juni · 碰撞追踪](daily/2026/06/2026-06-15.md)
-  - [14. Juni · 碰撞追踪](daily/2026/06/2026-06-14.md)
-  - [13. Juni · 碰撞追踪](daily/2026/06/2026-06-13.md)
-  - [12. Juni · 碰撞追踪](daily/2026/06/2026-06-12.md)
-  - [11. Juni · 碰撞追踪](daily/2026/06/2026-06-11.md)
-  - [10. Juni · 碰撞追踪](daily/2026/06/2026-06-10.md)
-  - [09. Juni · 碰撞追踪](daily/2026/06/2026-06-09.md)
-  - [08. Juni · 碰撞追踪](daily/2026/06/2026-06-08.md)
-  - [07. Juni · 碰撞追踪](daily/2026/06/2026-06-07.md)
-  - [06. Juni · 碰撞追踪](daily/2026/06/2026-06-06.md)
-  - [05. Juni · 碰撞追踪](daily/2026/06/2026-06-05.md)
-  - [04. Juni · 碰撞追踪](daily/2026/06/2026-06-04.md)
-  - [03. Juni · 碰撞追踪](daily/2026/06/2026-06-03.md)
-  - [02. Juni · 碰撞追踪](daily/2026/06/2026-06-02.md)
-  - [01. Juni · 碰撞追踪](daily/2026/06/2026-06-01.md)
-
+  - [22. Juni · 停更前最后一期](daily/2026/06/2026-06-22.md) … [01. Juni](daily/2026/06/2026-06-01.md)
 - [Mai · 五月](daily/2026/05/)
-  - [31. Mai · 碰撞追踪](daily/2026/05/2026-05-31.md)
-  - [30. Mai · 碰撞追踪](daily/2026/05/2026-05-30.md)
-  - [29. Mai · 碰撞追踪](daily/2026/05/2026-05-29.md)
-  - [28. Mai · 碰撞追踪](daily/2026/05/2026-05-28.md)
-  - [27. Mai · 碰撞追踪](daily/2026/05/2026-05-27.md)
-  - [26. Mai · 碰撞追踪](daily/2026/05/2026-05-26.md)
-  - [25. Mai · 碰撞追踪](daily/2026/05/2026-05-25.md)
-  - [24. Mai · 碰撞追踪](daily/2026/05/2026-05-24.md)
-  - [23. Mai · 碰撞追踪](daily/2026/05/2026-05-23.md)
-  - [22. Mai · 碰撞追踪](daily/2026/05/2026-05-22.md)
-  - [21. Mai · 碰撞追踪](daily/2026/05/2026-05-21.md)
-  - [20. Mai · 碰撞追踪](daily/2026/05/2026-05-20.md)
-  - [19. Mai · 碰撞追踪](daily/2026/05/2026-05-19.md)
-  - [18. Mai · 碰撞追踪](daily/2026/05/2026-05-18.md)
-  - [17. Mai · 碰撞追踪首日](daily/2026/05/2026-05-17.md)
-  - [08. Mai · 黑塞研究全景基线](daily/2026/05/2026-05-08.md)
+  - [31. Mai](daily/2026/05/2026-05-31.md) … [17. Mai · 碰撞追踪首日](daily/2026/05/2026-05-17.md) · [08. Mai · 全景基线](daily/2026/05/2026-05-08.md)
 
 ---
 
-## 📖 一、里程碑：首部《黑塞手册》(Hesse-Handbuch, 2025)
+## 📖 研究前沿综述（2025-2026 基线）
 
-**Bartl, Andrea / Honold, Alexander (Hg.): *Hermann Hesse Handbuch. Leben – Werk – Wirkung*. J.B. Metzler, April 2025. 481 Seiten.**
+### 一、正典化：首部《黑塞手册》
+**Hesse-Handbuch**（Bartl/Honold, Metzler 2025, 481pp）——"Hesse anders lesen"：Queering Hesse / 女性视角 / 身体文化 / 世界性。
 
-这是黑塞研究史上第一部系统性手册，标志着黑塞正式进入德语文学"正典化"研究的新阶段。主编之一 Alexander Honold（巴塞尔大学）明确提出 **"Hesse anders lesen" — 换一种方式读黑塞。**
+### 二、全球化：精神资本
+**Global Impact**（Cornils, Boydell & Brewer 2024）——Spiritual Capital 框架；黑塞 = 世界第 35 位最被译作者（UNESCO 1500+ 译本）；含詹春花《黑塞对中国大陆的影响》。
 
-**手册的突破性贡献：**
+### 三、认知语言学转向
+黑塞 15 篇童话隐喻网络（Göttingen）——"河流"概念基模；中国符号 = 异域认知锚点。
 
-- **Queering Hesse** — 首次将酷儿理论引入黑塞研究，重新审视《德米安》《纳尔齐斯与歌尔德蒙》中的同性社会性纽带
-- **女性视角** — 弥补长期以来黑塞研究中性别维度的缺失
-- **身体文化（Körperkultur）** — 黑塞文本中的身体、感官与自然
-- **世界性（Weltläufigkeit）** — 将黑塞重新定位为一位跨越文化的世界主义作家，而非仅仅"德国浪漫派末裔"
-- 覆盖全部作品、生平节点与社会影响的系统框架
+### 四、后人类主义
+《荒原狼》(1927) 作为后人类先驱（Konturen）——魔术剧院 = 后人类主体性排练场。
 
----
+### 五、第 18 卷年鉴（2026-03）
+**HHJ Band 18**（Limberg 编, K&N, 368pp, 15 篇）——Kuschel×3 反鸡汤化 / Bartl 残疾书写 / 音乐文化批评 / 双性人。
 
-## 🌍 二、全球化转向：黑塞的"精神资本"
+### 六、100 篇 WoS 元分析
+RUDN Journal 2024/25——为健康人文学与记忆研究开路；全球青年读者持续吸引力。
 
-**Cornils, Ingo (Hg.): *Hermann Hesse's Global Impact: Past, Present, Future*. Boydell & Brewer, 2024/2025. 288 pages.**
-
-利兹大学 Ingo Cornils 主编的这本论文集提出了核心概念——**Spiritual Capital（精神资本）**：
-
-> "黑塞的'全球性'在于他的主题触及人类存在的非物质侧面，而这种触及方式在不同文化社群中引发了各自的个体回应。他的散文与诗歌提供了一个平静、真实与灵性的绿洲——一种深刻而真切的意义空间。"
-
-**关键贡献：**
-
-| 论文 | 方向 |
-|---|---|
-| 黑塞与世界文学的民主化 | Hesse as democratizer of world literature |
-| Hesse and the Digital Age | 互联网时代的黑塞阅读社群 |
-| Hesse's Impact on Mainland China (Chunhua Zhan) | 黑塞在中国的接受史——从1980年代"黑塞热"到当代 |
-| Hesse on Film | 《纳尔齐斯与歌尔德蒙》(2020)电影改编研究 |
-| K-Pop & BTS | 黑塞对韩国流行文化的渗透——BTS专辑《WINGS》援引《德米安》 |
-
----
-
-## ✨ 三、认知语言学转向：黑塞童话中的隐喻
-
-***Zur Funktion und Bedeutung kognitiver Metaphern in Hermann Hesses Märchen*. Universitätsverlag Göttingen.**
-
-运用认知语言学（Lakoff/Johnson 概念隐喻理论），系统分析黑塞 1903-1933 年间创作的 15 篇童话中的隐喻体系与中国象征。
-
-**核心发现：**
-- 黑塞的童话并非逃避现实，而是一个精密运作的"认知隐喻网络"
-- "河流"（Fluss）不仅是 Siddhartha 中的哲学意象，在童话中也以变体形式反复出现，构成 **概念基模（conceptual schema）**
-- 中国符号在黑塞童话中承担了"异域认知锚点"的功能——它们不是装饰，而是西方理性无法处理的经验的代理容器
-
----
-
-## 🤖 四、后人类主义：《荒原狼》作为"后人类先驱"
-
-**"From Anti-humanism to Posthumanism: Hermann Hesse's *Steppenwolf*". *Konturen*, University of Oregon.**
-
-关键论证：
-1. 《荒原狼》(1927) 批判了它所依附的人文主义传统
-2. 哈里·哈勒尔的尼采式反人文主义被文本自身超越
-3. 《荒原狼》在时间维度上是"后人类"的：站在20世纪回望并解构19世纪人文主义遗产
-4. "魔术剧院"（Magisches Theater）可读作 **后人类主体性的排练场**——人格碎片化、多元自我、人/兽边界消解
-
----
-
-## 📚 五、第18卷《黑塞年鉴》(März 2026)
-
-**Limberg, Michael (Hg.): *Hermann-Hesse-Jahrbuch*, Band 18. 6. März 2026.**
-
-收入 2024-2025 年间多项新研究，来源包括 Silser Hesse-Tage 年会论文和黑塞协会年度会议。同时发布了 **2025年黑塞文献目录**。
-
----
-
-## 📊 六、系统性综述：100篇WoS研究元分析
-
-**"Relevance of Hermann Hesse: A Systematic Review of Different Perspectives". *RUDN Journal of Literary Criticism*, 2024/2025.**
-
-系统分析 Web of Science 索引的 100篇黑塞论文，结论：
-- 黑塞的文学世界"比迄今所发现的更加深邃和宏大"
-- 为 **健康人文学（Health Humanities）** 和 **记忆研究（Memory Studies）** 开辟新路径
-- 黑塞在全球青年读者中的持续吸引力——跨文化、跨代际的"自我追寻"叙事
-
----
-
-## 🗓️ 七、前瞻：2027年黑塞诞辰150周年
-
-蒙塔尼奥拉黑塞博物馆已宣布 2027 年大型纪念活动计划。当前 2026 年项目聚焦于黑塞第三任妻子 **Isa Hesse-Rabinovitch 特展**——女性视角正在成为黑塞研究的新增长极。
+### 七、2027 前瞻
+150 诞辰 + 《荒原狼》100 年双周年；蒙塔尼奥拉 Isa Hesse-Rabinovitch 特展（2026）；联邦 35€ 纪念银币。
 
 ---
 
 ## 🧭 研究趋势总结
 
 ```
-               旧范式                      新范式
-          ┌──────────────┐          ┌──────────────────┐
-          │ 黑塞 =        │          │ 黑塞 =            │
-          │ 心灵鸡汤 /    │   →→→    │ 跨文化认知探针    │
-          │ 东方智慧      │          │ 后人类先驱        │
-          │ 浪漫派末裔    │          │ 全球化精神资本    │
-          │ 男性中心      │          │ Queering Hesse    │
-          │ 仅德语文坛    │          │ K-Pop → 全球流行  │
-          └──────────────┘          └──────────────────┘
+旧范式                        新范式
+黑塞 = 心灵鸡汤/东方智慧   →   跨文化认知探针/后人类先驱/全球化精神资本
+男性中心/仅德语文坛        →   Queering Hesse / K-Pop → 全球流行
 ```
 
-**七大前沿方向：**
-
-| # | 方向 | 代表成果 |
-|---|------|---------|
-| 1 | 正典化与系统化 | Hesse-Handbuch (Bartl/Honold 2025) |
-| 2 | 全球化与接受史 | Hermann Hesse's Global Impact (Cornils 2024/25) |
-| 3 | 认知语言学与隐喻 | Göttingen 认知隐喻研究 |
-| 4 | 后人类主义 | Steppenwolf as Posthumanist Pioneer (Konturen) |
-| 5 | 酷儿与性别研究 | "Queering Hesse" (Hesse-Handbuch) |
-| 6 | 健康人文学与记忆研究 | RUDN 100篇系统综述 |
-| 7 | 数字时代与流行文化 | BTS / K-Pop / Digital Reading Communities |
+> 🦞 **结论：黑塞研究正在经历一场迟到的范式革命。** 2027 双周年将成为爆发点。本图谱持续追踪这一转型。
 
 ---
 
-> 🦞 **结论：黑塞研究正在经历一场迟到的范式革命。** 过去五十年他被锁在"东方灵性导师"的框里。新工具——认知语言学、后人类理论、酷儿研究、全球接受史——正在重新打开他文本里那些一直存在但从未被认真对待的维度。2027年诞辰150周年将成为这一范式转型的爆发点。
-
----
-
-> 📡 本页面由 Ariste 自动维护 | [GitHub](https://github.com/skyflyld/hesse-research) | [碰撞追踪引擎](https://github.com/skyflyld/hesse-knowledge-graph)
+> 📡 本页面由 Ariste 自动维护｜[GitHub](https://github.com/skyflyld/hesse-research)｜[碰撞追踪索引](cards-index.md)
