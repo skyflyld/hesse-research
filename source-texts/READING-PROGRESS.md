@@ -8,17 +8,17 @@
 
 | 作品 | 文件 | 实际行数 | 状态 | 笔记 |
 |------|------|---------|------|------|
-| Morgenlandfahrt | Morgenlandfahrt_zlib.txt | 505 | ✅ 已读完 | 已有（前会话） |
+| Morgenlandfahrt | Morgenlandfahrt_zlib.txt | 505 | ✅ 已读完 | ✅ notes/Morgenlandfahrt.md（08-31 补读落盘） |
 | Peter Camenzind | PeterCamenzind_41051.txt | 4908（原文件3968截断，已用PG完整版补全至Ende） | ✅ 已读完 | ✅ notes/PeterCamenzind.md |
 | Demian | Demian_41907.txt | 5195（正文止于 Druck von Hallberg，后为Werke广告页+license） | ✅ 已读完 | ✅ notes/Demian.md |
 | Siddhartha | Siddhartha_2499.txt | 4007（正文止于 END OF THE PROJECT GUTENBERG） | ✅ 已读完 | ✅ notes/Siddhartha.md |
 | Gertrud | Gertrud_61266.txt | 6194（正文止于 Ende.） | ✅ 已读完 | ✅ notes/Gertrud.md |
-| Glasperlenspiel | Glasperlenspiel_zlib.txt | ~4941 | ⏳ 未读 | |
-| Klingsor | Klingsor_42338.txt | ~2843 | ⏳ 未读 | |
-| NarzissGoldmund | NarzissGoldmund_79173.txt + Suhrkamp版 | 10631 / 3316 | ⏳ 未读 | |
-| Rosshalde | Rosshalde_64466.txt | ~6335 | ⏳ 未读 | |
-| Steppenwolf | Steppenwolf_75802.txt | ~7823 | ⏳ 未读 | |
-| UntermRad | UntermRad_49908.txt | ~3754 | ⏳ 未读 | |
+| Glasperlenspiel | Glasperlenspiel_zlib.txt | 4941 | ✅ 已读完 | ✅ notes/Glasperlenspiel.md |
+| Klingsor | Klingsor_42338.txt | 2843（截断）+PG 6262 | ✅ 已读完 | ✅ notes/Klingsor.md |
+| NarzissGoldmund | NarzissGoldmund_Suhrkamp_zlib.txt | 3316 | ✅ 已读完 | ✅ notes/NarzissGoldmund.md |
+| Rosshalde | Rosshalde_64466.txt | 6335 | ✅ 已读完 | ✅ notes/Rosshalde.md |
+| Steppenwolf | Steppenwolf_75802.txt | 7823 | ✅ 已读完 | ✅ notes/Steppenwolf.md |
+| UntermRad | UntermRad_49908.txt | 3754（截断）+PG 6322 | ✅ 已读完 | ✅ notes/UntermRad.md |
 
 ## 关键发现（累计）
 
@@ -34,12 +34,11 @@
 - [x] 读 Demian 全文 + 写笔记 `notes/Demian.md`
 - [x] 读 Siddhartha 全文 + 写笔记 `notes/Siddhartha.md`
 - [x] 读 Gertrud 全文 + 写笔记 `notes/Gertrud.md`
-- [ ] 读 Siddhartha 全文
-- [ ] 读 Steppenwolf 全文
-- [ ] 读 Glasperlenspiel 全文
-- [ ] 读 NarzissGoldmund（Suhrkamp版）全文
-- [ ] 读 Gertrud 全文
-- [ ] 读 Rosshalde 全文
-- [ ] 读 UntermRad 全文
-- [ ] 读 Klingsor 全文
-- [ ] 全部读完 → 回「不可传达」议题，给真正基于一手阅读的结论
+- [x] 读 Steppenwolf 全文 + 写笔记 `notes/Steppenwolf.md`
+- [x] 读 Glasperlenspiel 全文 + 写笔记 `notes/Glasperlenspiel.md`
+- [x] 读 NarzissGoldmund（Suhrkamp版）全文 + 写笔记 `notes/NarzissGoldmund.md`（含 60 处行号修正）
+- [x] 读 Rosshalde 全文 + 写笔记 `notes/Rosshalde.md`（行号实测重写）
+- [x] 读 UntermRad 全文（3754 本地 + PG 6322 补全）+ 写笔记 `notes/UntermRad.md`
+- [x] 读 Klingsor 全文（PG 6262 补全）+ 写笔记 `notes/Klingsor.md`
+- [x] 读 Morgenlandfahrt 全文 + 写笔记 `notes/Morgenlandfahrt.md`（08-31 补读）
+- [x] **全部读完（12 部）** → 回「不可传达」议题，基于一手阅读的结论已形成（见各笔记五维 + 台账验证总结）
